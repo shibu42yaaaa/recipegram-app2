@@ -17,8 +17,14 @@ class RecipesController < ApplicationController
   end
 
   def edit
+    @recipe = Recipe.find(params[:id])
   end
 
+  def update
+    @recipe = Recipe.find(params[:id])
+    @recipe.update(recipe_params)
+    redirect_to recipe_path(@recipe), notice: "レシピを更新しました。"
+  end
   private
 
   def recipe_params
