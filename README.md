@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # recipegram-app2
+
+# devceの使い方
+https://qiita.com/taki_21/items/cc8bc157d5742294ec98
+
+# refileの使い方
+https://qiita.com/salvage0707/items/2614c97a1f256027ef71
